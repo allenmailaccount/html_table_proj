@@ -1,0 +1,44 @@
+table{
+  margin: auto;
+  border: 1px solid black;
+  border-collapse: collapse;
+  text-align: left;
+  color: slateblue;
+}
+
+th {
+  border: 1px solid black;
+  border-collapse: collapse;
+  border-color: slateblue;
+  border-width: 2px;
+  background-color: violet;
+  text-align: center;
+  color: black;
+}
+
+
+td, tr {
+  border: 1px solid black;
+  border-collapse: collapse;
+  border-color: slateblue;
+  border-width: 2px;
+  text-align: left;
+  color: slateblue;
+}
+
+h1{
+  font-size: 3em;
+  text-align: center;
+  color: black;
+}
+
+h2{
+  font-size: 2em;
+  text-align: center;
+  color: slateblue;
+}
+
+.code {
+  font-family: monospace;
+  background-color: tan;
+}
